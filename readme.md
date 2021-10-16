@@ -1,6 +1,6 @@
 # Trang web tỏ tình crush cực kỳ lãng mạn
 
-Link Demo: https://epchannel.github.io/crush-love/
+Link Demo: https://epchannel.github.io/Love_Linh/
 
 ## Tác giả
 
@@ -26,4 +26,4 @@ Ngồi chờ 5 phút đợi web của bạn tải lên sau đó sẽ hiện link
 
 Chúc các bạn thành công!
 
-Nếu như thấy hay thì hãy STAR repo này và theo dõi mình trên facebook nhé.. Cảm ơn!
+Nếu như thấy hay thì hãy vote STAR repo này và theo dõi mình trên facebook nhé. Cảm ơn!
