@@ -20,7 +20,7 @@ Bước 3: Vào file <a href="./CONFIG.js" >CONFIG.js</a> và click vào icon c�
 
 Sau khi thay đổi xong thì lướt xuống dưới và click vào Commit change để lưu lại.
 
-Bước 4: Chuyển sang tab Setting và lướt xuống dưới thấy chữ Github Page thì click vào `check it out here` và chọn nhánh Main rồi click Save.
+Bước 4: Chuyển sang tab Setting và lướt xuống dưới thấy chữ Github Page thì click vào `check it out here` và chọn nhánh Master rồi click Save.
 
 Ngồi chờ 5 phút đợi web của bạn tải lên sau đó sẽ hiện link trang web bạn click vào link đó và tận hưởng thành quả gửi cho crush thôi.
 
