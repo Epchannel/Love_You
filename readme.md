@@ -1,10 +1,10 @@
 # Trang web tỏ tình crush cực kỳ lãng mạn
 
-Link Demo: https://epchannel.github.io/Love_Cau/
+Link Demo: https://epchannel.github.io/Love_You/
 
 ## Tác giả
 
-**Facebook**: <a href="http://fb.com/only.princess.Linh">Phạm Hồng Hiệp</a>
+**Facebook**: <a href="http://fb.com/day.la.Hiep">Phạm Hồng Hiệp</a>
 
 ## Cách sử dụng:
 
