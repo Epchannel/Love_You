@@ -1,29 +1,49 @@
-# Trang web tỏ tình crush cực kỳ lãng mạn
+# 🌹 Trang Web Tỏ Tình Crush Lãng Mạn
 
-Link Demo: https://epchannel.github.io/Love_You/
+**Demo**: [Truy cập ngay](https://epchannel.github.io/Love_You/)
 
-## Tác giả
+---
 
-**Facebook**: <a href="http://fb.com/day.la.Hiep">Phạm Hồng Hiệp</a>
+## 👤 Tác Giả
 
-## Cách sử dụng:
+- **Facebook**: [Phạm Hồng Hiệp](http://fb.com/epchannel.vn)
 
-Nếu bạn muốn dùng web này theo cách của bạn hoặc muốn đưa lên host riêng của bạn để gửi cho người thầm thương nhớ của bạn thì hãy đọc hướng dẫn sử dụng này.
+---
 
-**Note**: Nếu các bạn không thích động tay động chân thì dùng luôn link demo ở phía trên.
+## 💡 Hướng Dẫn Sử Dụng
 
-Bước 1: Click vào `Fork` để clone repo này về github của bạn.
+Nếu bạn muốn tuỳ chỉnh trang web theo cách riêng hoặc muốn triển khai trên host của mình để gửi cho người bạn thầm thương, hãy làm theo các bước dưới đây:
 
-Bước 2: Vào trang cá nhân github của bạn và chuyển sang tab Repositories. Sẽ nhìn thấy repo mà bạn vừa Fork về và click vào repo đó
+> **Lưu ý**: Nếu bạn không muốn chỉnh sửa gì, chỉ cần dùng luôn link demo ở trên là xong!
 
-Bước 3: Vào file <a href="./CONFIG.js" >CONFIG.js</a> và click vào icon cây bút để edit thay đổi nội dung trong phần `CONFIGDATA`
+### 🔧 Các Bước Cài Đặt
 
-Sau khi thay đổi xong thì lướt xuống dưới và click vào Commit change để lưu lại.
+1. **Fork repository**  
+   Truy cập repo này và click nút `Fork` để sao chép về GitHub cá nhân của bạn.
 
-Bước 4: Chuyển sang tab Setting và lướt xuống dưới thấy chữ Github Page thì click vào `check it out here` và chọn nhánh Master rồi click Save.
+2. **Truy cập repository vừa fork**  
+   Vào trang GitHub cá nhân → tab **Repositories** → chọn repository bạn vừa fork.
 
-Ngồi chờ 5 phút đợi web của bạn tải lên sau đó sẽ hiện link trang web bạn click vào link đó và tận hưởng thành quả gửi cho crush thôi.
+3. **Tuỳ chỉnh nội dung**  
+   Mở file [`CONFIG.js`](./CONFIG.js) → click vào biểu tượng cây bút ✏ để chỉnh sửa nội dung trong phần `CONFIGDATA`.  
+   Sau khi hoàn tất, kéo xuống dưới và chọn **Commit changes** để lưu lại thay đổi.
 
-Chúc các bạn thành công!
+4. **Kích hoạt GitHub Pages**  
+   - Chuyển sang tab **Settings**
+   - Cuộn xuống phần **GitHub Pages**
+   - Click vào link `check it out here`
+   - Chọn nhánh `master` và bấm **Save**
 
-Nếu như thấy hay thì hãy vote STAR repo này và theo dõi mình trên facebook nhé. Cảm ơn!
+5. **Chờ vài phút**  
+   Sau khoảng 5 phút, GitHub sẽ tạo link trang web của bạn. Click vào link đó để truy cập và gửi đến "crush" thôi! 💘
+
+---
+
+## ⭐ Góp Sức & Ủng Hộ
+
+Nếu bạn thấy dự án này thú vị và hữu ích, hãy:
+
+- 🌟 Star repository này để ủng hộ tinh thần tác giả  
+- 👥 Follow tác giả trên [Facebook](http://fb.com/epchannel.vn) để cập nhật thêm nhiều dự án khác
+
+Cảm ơn bạn đã ghé thăm và chúc bạn tỏ tình thành công! 💌
